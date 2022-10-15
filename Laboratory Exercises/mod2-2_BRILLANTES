@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My First Webpage</title>
+	</head>
+	<body>
+		<div>
+			<h1> Haikyuu!! </h1>
+			<p> The storyline of Haikyu!! focuses on the main character named Hinata Shoyo and his volleyball teammates. 
+			<br>Their quest continues in competing for prestigious volleyball teams. Hinata is often belittled because of 
+			<br>his small size, encounters relationship conflicts, and the fear of losing several competitions. How will 
+			<br> they strive for success? </p>
+		</div>
+		
+		<span>
+			<h3> My Top 5 Favorite Characters</h3>
+		</span>
+
+		<div>
+			<ol>
+				<li>Kenma Kozume</li>
+				<li>Koshi Sugawara</li>
+				<li>Kei Tsukishima</li>
+				<li>Kiyoko Shimizu</li>
+				<li>Kenma Kozume</li>
+			</ol>
+		</div>
+		<p>Copyright &copy; NLBrillantes 9-Potassium </p>
+
+	</body>
+</html>
