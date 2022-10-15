@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Images and link</title>
+	</head>
+	<body>
+		<div>
+			<h1> See an awesome picture </h1>
+			<a href="mod2-3_BRILLANTES_2.html">Click here!</a>
+		</div>
+
+	</body>
+</html>
