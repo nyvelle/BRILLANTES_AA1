@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> My Literary Preference</title>
+	</head>
+	<body>
+		<div>
+			
+			<table style = "border: 2px solid blue">
+				<caption> My Favorite Novels </caption>
+				
+				<colgroup>
+					<col span = '3' style ="background-color: #ffeecc">
+				</colgroup>
+
+				<tr>
+					<th style="border: 2px solid blue"> Novel </th>
+					<th style="border: 2px solid blue"> Author </th>
+					<th style="border: 2px solid blue"> Genre </th>
+				</tr>
+				<tr>
+					<td style="border: 2px solid blue"> Harry Potter </td>
+					<td style="border: 2px solid blue"> J.K. Rowling </td>
+					<td style="border: 2px solid blue"> Fantasy, Adventure </td>
+				</tr>
+				<tr>
+					<td style="border: 2px solid blue"> Miss Peregrine's Home for Peculiar Children </td>
+					<td style="border: 2px solid blue"> Ransom Riggs </td>
+					<td style="border: 2px solid blue"> Dark fantasy, Mystery </td>
+				</tr>
+				</tr>
+				<tr>
+					<td style="border: 2px solid blue"> Percy Jackson </td>
+					<td style="border: 2px solid blue"> Rick Riordan </td>
+					<td style="border: 2px solid blue"> Fantasy </td>
+				</tr>
+				<tr>
+					<td style="border: 2px solid blue"> Rise of the Isle of the Lost </td>
+					<td style="border: 2px solid blue"> Melissa dela Cruz </td>
+					<td style="border: 2px solid blue"> Fantasy </td>
+				</tr>
+
+			</table>
+		</div>
+
+	</body>
+</html>
