@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Laboratory Exercise 5</title>
+	<head>
+
+		<body>
+			<table style = "border: 1px solid black; border-collapse: collapse;">
+				<caption> Website Evaluation </caption>
+
+				<tr>
+					<th style="border:1px solid black; background-color: grey"> Name of Student </th>
+					<td style="border:1px solid black"> Nyvelle Leanna D. Brillantes</td>
+				</tr>
+
+				<tr>
+					<th style="border:1px solid black; background-color: grey"> Section </th>
+					<td style="border:1px solid black"> Potassium </td>
+				</tr>
+
+				<tr>
+					<th style="border:1px solid black; background-color: grey"> Name of the website </th>
+					<td style="border:1px solid black"> Zebra Pen </td>
+				</tr>
+
+				<tr>
+					<th style="border:1px solid black; background-color: grey"> Link </th>
+					<td style="border:1px solid black"> <a href=https://www.zebrapen.com> https://www.zebrapen.com </a> </td>
+				</tr>
+
+				<tr>
+					<th style="border:1px solid black; background-color: grey"> Browser/s used </th>
+					<td style="border:1px solid black"> Google Chrome </td>
+				</tr>
+
+				<tr>
+					<td colspan="2" style="border:1px solid black; background-color: yellow"> Change the color of the items to red that best describes the website’s design and layout:</td>
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Do the colors or theme work well together? </td>
+					
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Are the elements “orchestrated properly”? </td>
+					
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Is the product/company branding visually presented? </td>
+					
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black"> </td>
+					<td style="border:1px solid black"> Do the colors emulate the appropriate mood and feelings of the content? </td>
+					
+				</tr>
+	
+				<tr>
+					<td style="border:1px solid black"> </td>
+					<td style="border:1px solid black"> Are the colors age, gender, or culture appropriate </td>
+					
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Does the color palette used effectively follow the 60/30/10 rule? </td>
+					
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Did the website use contrasting colors for its text and background? </td>
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Can the text be easily read and appropriate emphasis were given on the
+text contents, using colors? </td>
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black; background-color: red"> </td>
+					<td style="border:1px solid black"> Are the colors effectively used to separate certain sections or portions of
+the page? </td>
+				</tr>
+
+				<tr>
+					<td style="border:1px solid black"> </td>
+					<td style="border:1px solid black"> Does the website have a consistent feel and appearance, emulating
+“wholeness”? </td>
+				</tr>
+		<body>
+<html>
+		
