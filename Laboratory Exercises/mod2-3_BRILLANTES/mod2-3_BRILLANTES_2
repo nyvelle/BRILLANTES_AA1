@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Nyvelle's Favorite Books!</title>
+	</head>
+	<body>
+		<div>
+			<h1> My Favorite Books </h1>
+		</div>
+		
+		<span>
+				
+			<img src="images/miss_p.webp" alt="Miss Pergrine's Home for Peculiar Children"></li>
+			<br>
+			<img src="images/tues_with_morrie.jpg" heaight = 630px width = 630px alt="Tuesdays with Morrie"></li>
+			
+		</span>
+		
+		<div>
+			<p> As shown in the images above, these are two of my favorite books. Miss Pergrine's Home for Peculiar
+			<br>Children is on the top of my list because I'm inlove with mystery and fantasy fiction genre. 
+			<br>Furthermore, I also have my interest in Tuesday's with Morrie because it's full of philosophical advices
+			<br>that can be applied in our life. </p>
+		</div>
+		
+
+
+	</body>
+</html>
